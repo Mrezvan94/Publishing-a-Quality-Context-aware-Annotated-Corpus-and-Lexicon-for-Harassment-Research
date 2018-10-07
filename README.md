@@ -6,7 +6,7 @@ For this reason, initially we created a lexicon form the profane words and we di
 We acknowledge support from the National Science Foundation (NSF) award CNS 1513721: Context-Aware Harassment Detection on Social Media.
 Wiki page of this project: http://wiki.knoesis.org/index.php/Context-Aware_Harassment_Detection_on_Social_Media
 To getting our annotated tweets in five context, please contact the authors via these emails: 
-Mohammadreza Rezavan: mohammmadrezarezvan94@gmail.com
+Mohammadreza Rezavan: mohammadrezarezvan94@gmail.com
 Saeedeh Shekarpour: sshekarpour1@udayton.edu
 
 
